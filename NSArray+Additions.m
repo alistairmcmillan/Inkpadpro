@@ -6,7 +6,7 @@
 //  License, v. 2.0. If a copy of the MPL was not distributed with this
 //  file, You can obtain one at http://mozilla.org/MPL/2.0/.
 //
-//  Copyright (c) 2014-2015 Daniel Dugan
+//  Copyright (c) 2011-2013 Steve Sprang
 //
 
 #import "NSArray+Additions.h"
